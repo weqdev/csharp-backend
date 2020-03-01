@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Butterfly.Db" Version="2.0.1" />
+    <PackageReference Include="Butterfly.Db.MySql" Version="2.0.1" />
+    <PackageReference Include="Butterfly.Web.EmbedIO" Version="2.0.2" />
+  </ItemGroup>
+
+</Project>
